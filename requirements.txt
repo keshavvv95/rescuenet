@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+geoalchemy2
+alembic
+pydantic
+pydantic-settings
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+pg8000
